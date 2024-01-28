@@ -1,6 +1,8 @@
 # Git Demo Repo
 This is a smaple repository / sample app for the Git course.
 
+* This change is made by VS 2022
+
 ## Roadmap
 * Add new features
 * Fix the bugs
