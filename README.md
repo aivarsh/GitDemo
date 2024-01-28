@@ -1,5 +1,5 @@
 # Git Demo Repo
-This is a demo app for the Git course.
+This is a smaple repository app for the Git course.
 
 ## Roadmap
 * Add new features
@@ -21,3 +21,4 @@ This is a demo app for the Git course.
 12. git pull
 13. git push 
 14. git branch -d branch_name
+
