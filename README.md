@@ -1,8 +1,6 @@
 # Git Demo Repo
 This is a smaple repository / sample app for the Git course.
 
-Line to remove
-
 ## Roadmap
 * Add new features
 * Fix the bugs
